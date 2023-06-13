@@ -4,7 +4,11 @@
   "version": "0.0.1",
   "type": "commonjs",
   "author": "Zach Gotsch",
-  "description": "Fixes broken UTF-8 encodings in files",
+  "description": "Fix UTF-8 encodings which have been broken into single byte sequences",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zgotsch/fix-broken-utf8-encodings"
+  },
   "keywords": [
     "utf8",
     "encoding",
